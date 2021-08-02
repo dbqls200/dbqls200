@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFFFC5&height=150&animation=fadeIn&section=header&text=YuBeen🐾&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFFF99&height=150&animation=fadeIn&section=header&text=YuBeen🐾&fontSize=50)
 
 <p align="center"> 🖥 Techs that I've used at least once 🖥 </p>
 
