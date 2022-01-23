@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFFFCC&height=150&animation=fadeIn&section=header&text=YuBeen🐾&fontSize=50)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=YuBeen : )&fontSize=70" />
+</p>
 
 <p align="center"> 🖥 Techs that I've used at least once 🖥 </p>
 
@@ -23,8 +25,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 
+---  
+  
 
----
+|✏ Study With Me ✏|
+|:-----:|
+[![자바스크립트](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/dbqls200/Study-JavaScript) [![안드로이드 앱](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://github.com/dbqls200/Study-Android-1)
+
+  
+---  
 ## [ 2020 ]  
 >2020.07  **🥈** 교내 학습공동체 공모전 **우수상** *(JAVA 기초 학습)*  
 >2020.07  **🥈** 교내 학습공동체 공모전 **우수상** *(데이터 분석 기초 학습)*  
