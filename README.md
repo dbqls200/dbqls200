@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=YuBeen : )&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=YuBeen :)&fontSize=70" />
 </p>
 
 <p align="center"> 🖥 Techs that I've used at least once 🖥 </p>
