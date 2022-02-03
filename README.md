@@ -27,7 +27,7 @@
 
 ---  
 
-###### CLICK : )
+###### 👇🏻 CLICK ON THE BADGE : )
 |✏ Study With Me ✏ |
 |:-----:|
 [![자바스크립트](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/dbqls200/Study-JavaScript) [![안드로이드 앱](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://github.com/dbqls200/Study-Android-1)
