@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=YuBeen :)&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YuBeen&fontSize=70" />
 </p>
 
 <p align="center"> 🖥 Techs that I've used at least once 🖥 </p>
@@ -50,3 +50,6 @@
 >2022.01 🏅 교내 학습공동체 공모전 **장려상** *(안드로이드 앱 개발 기초 학습)*  
 >2022.02 🎖 [**빅데이터분석실무2급**](https://github.com/dbqls200/dbqls200/blob/main/image/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%8B%A4%EB%AC%B42%EA%B8%89.pdf) (한국정보인재개발원) 자격증 취득  
 >2022.02 🎖 [**파이썬프로그래밍활용능력2급**](https://github.com/dbqls200/dbqls200/blob/main/image/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A52%EA%B8%89.pdf) (한국정보인재개발원) 자격증 취득
+>2022.02 🎖 [**파이썬프로그래밍활용능력2급**](https://github.com/dbqls200/dbqls200/blob/main/image/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A52%EA%B8%89.pdf) (한국정보인재개발원) 자격증 취득
+>>2022.03 ~ 08 👩🏻‍💻 
+
