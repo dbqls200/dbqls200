@@ -2,17 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YuBeen&fontSize=70" />
 </p>
 
-<p align="center"> 🖥 Techs that I've used at least once 🖥 </p>
+<p align="center"> 🖥 Techs 🖥 </p>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 
 
 
@@ -38,4 +32,4 @@
 >2022.08 🥉 제2회 경소톤 (단국대학교) **동상**[🔗](https://github.com/kimyeonhong00/dorazy)
 
 ## [ 2023 ]
->2023.01 👩🏻‍💻 개인 프로젝트 'BookMark 북마크' [🔗](https://github.com/dbqls200/BookMark)
+>2023.01 ~ 👩🏻‍💻 개인 프로젝트 'BookMark 북마크' [🔗](https://github.com/dbqls200/BookMark)
